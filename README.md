@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Apurv62
 - 👀 I’m interested in web development and Software development
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on front end web development 
+- 💞️ I’m looking to collaborate on back end web development 
 - 📫 How to reach me ... my email- apurvs240@gmail.com and my git hub account Apurv 62. 
 
 <!---
